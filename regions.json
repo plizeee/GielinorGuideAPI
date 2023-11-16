@@ -1,0 +1,69 @@
+{
+    "Misthalin": {
+      "Lumbridge": [[50, 50]],
+      "Lumbridge Swamp": [[49, 49], [50, 49]],
+      "Al Kharid": [[51, 49]],
+      "Varrock": [[49, 54], [50, 54], [49, 53], [50, 53]],
+      "Draynor Village": [[48, 51], [48, 50]],
+      "Draynor Manor": [[48, 52]],
+      "Wizards' Tower": [[48, 49]],
+      "Barbarian Village": [[48, 53]]
+    },
+    "Asgarnia": {
+      "Falador": [[45, 52], [47, 52], [46, 51]],
+      "Rimmington": [[45, 50], [46, 50]],
+      "Port Sarim": [[47, 50], [47, 49]],
+      "South Falador Farm": [[47, 51]],
+      "Goblin Village": [[46, 54]],
+      "Monastery": [[47, 54]],
+      "Dwarven Mine": [[47, 53]],
+      "Edgeville": [[48, 54]],
+      "Tutorial Island": [[48, 48]],
+      "The Node": [[48, 47]]
+    },
+    "Kandarin": {
+      "East Ardougne": [[40, 52], [41, 52], [40, 51], [41, 51]],
+      "West Ardougne": [[38, 51], [39, 51]],
+      "Yanille": [[39, 48], [40, 48]],
+      "Tree Gnome Village": [[39, 49]],
+      "Fight Arena": [[40, 49]],
+      "Port Khazard": [[41, 49]],
+      "Seers' Village": [[42, 54]],
+      "Camelot Castle": [[43, 54]],
+      "Catherby": [[43, 53], [44, 53]],
+      "Fishing Guild": [[40, 53]],
+      "Ranging Guild": [[41, 53]],
+      "McGrubor's Wood": [[41, 54]]
+    },
+    "Fremennik Province": {
+      "Rellekka": [[40, 57], [41, 57]],
+      "Warriors' Guild": [[44, 55]],
+      "Burthorpe": [[45, 55]],
+      "Heroes' Guild": [[45, 54]],
+      "Taverley": [[45, 53]],
+      "Grand Tree": [[38, 54]],
+      "Gnome Ball Field": [[37, 54]],
+      "Agility Training Area": [[38, 53]]
+    },
+    "Karamja": {
+      "Ship Yard": [[46, 47]],
+      "Shilo Village": [[44, 46]],
+      "Cairn Isle": [[43, 46]],
+      "Kharkazi Jungle": [[43, 45], [44, 45], [45, 45]],
+      "Tai Bwo Wannai": [[43, 48], [43, 47]],
+      "Brimhaven": [[43, 50], [43, 49]],
+      "Gu'Tanoth": [[39, 47]],
+      "Jiggig": [[38, 47]],
+      "Castle Wars": [[37, 48]]
+    },
+    "Tirannwn": {
+      "Port Tyras": [[33, 48]],
+      "Tyras Camp": [[34, 49]],
+      "Lletya": [[38, 49]],
+      "Battlefield": [[39, 50]],
+      "Tempoross Cove and Surrounding": {
+        "Tempoross Cove": [[47, 46]]
+      }
+    }
+  }
+  
