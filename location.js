@@ -165,7 +165,14 @@ module.exports = {
 
 /* Significant Locations (chunk coordinates)
 
-Note: You can calculate the chunk coordinates by dividing the player's coordiantes by 64 and rounding down. The remainder is how far into the chunk the player is. For example, if the player is at (x: 100, y: 100), the chunk coordinates are (1, 1) and the player is 36% into the chunk.
+Notes: 
+
+-You can calculate the chunk coordinates by dividing the player's coordiantes by 64 and rounding down. The remainder is how far into the chunk the player is. For example, if the player is at (x: 100, y: 100), the chunk coordinates are (1, 1) and the player is 36% into the chunk.
+
+-You can calculate the subchunk coordinates by multiplying the remainder by 8 and rounding up. For example, if the player is at (x: 100, y: 100), the subchunk coordinates are (3, 3), because 0.36 * 8 = 2.88, which rounds up to 3.
+
+TODO:
+-If player is not within any zone, find the closest zone and describe the direction and distance to it. For example, "2 chunks north of Lumbridge Swamp"
 
 map link example:
 
