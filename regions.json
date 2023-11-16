@@ -10,7 +10,7 @@
       "Barbarian Village": [[48, 53]]
     },
     "Asgarnia": {
-      "Falador": [[45, 52], [47, 52], [46, 51]],
+      "Falador": [[46, 52], [47, 52], [46, 51]],
       "Rimmington": [[45, 50], [46, 50]],
       "Port Sarim": [[47, 50], [47, 49]],
       "South Falador Farm": [[47, 51]],
@@ -61,9 +61,7 @@
       "Tyras Camp": [[34, 49]],
       "Lletya": [[38, 49]],
       "Battlefield": [[39, 50]],
-      "Tempoross Cove and Surrounding": {
-        "Tempoross Cove": [[47, 46]]
-      }
+      "Tempoross Cove": [[47, 46]]
     }
   }
   

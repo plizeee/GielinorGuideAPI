@@ -3,7 +3,7 @@ require('dotenv').config()
 const randomstring = require("randomstring");
 const fs = require('fs');
 const app = express()
-const port = process.env.PORT || 3030;
+const port = process.env.PORT || 443;
 const https = require('https');
 const path = require('path');
 
@@ -57,6 +57,9 @@ app.post('/post', (req, res) => {
 
     Location.updateData(newObj, timestamp)
     Location.checkData(timestamp)
+
+    // console.log("New Location Data Received");
+
     res.send(data)
 })
 
