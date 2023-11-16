@@ -1,0 +1,21 @@
+{
+  "name": "live-friend-locations-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "openssl": "^2.0.0",
+    "randomstring": "^1.2.1"
+  }
+}
